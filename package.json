@@ -1,5 +1,5 @@
 {
-  "name": "com.moritonal.UnityAsyncSystem",
+  "name": "com.moritonal.unityasyncsystem",
   "version": "0.0.1",
   "displayName": "Unity Async System",
   "description": "Tool to allow multi-threaded async work in Unity",
