@@ -1,6 +1,6 @@
 {
   "name": "com.moritonal.unityasyncsystem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Unity Async System",
   "description": "Tool to allow multi-threaded async work in Unity",
   "unity": "2019.1",
@@ -13,7 +13,7 @@
     "multithreading"
   ],
   "author": {
-    "name": "Tom BOnner",
+    "name": "Tom Bonner",
     "email": "tom+unity@bonner.is",
     "url": "https://github.com/moritonal/UnityAsyncSystem"
   }
